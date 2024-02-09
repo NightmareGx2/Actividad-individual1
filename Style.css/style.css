@@ -1,4 +1,11 @@
-/*Hecho por Daniel Steven y Maximiliano*/
+
+body{
+  background-color: #333;
+  color: #fff;
+  font-family: Arial, sans-serif; 
+  margin: 0; 
+  padding: 0; 
+}
 header {
     background-color: #1b1b2b; 
     color: #634167; 
@@ -81,15 +88,14 @@ header {
     margin: 0; 
     }
     
-    body {
-    font-family: Arial, sans-serif; 
-    margin: 0; 
-    padding: 0; 
-      }
-      
+
       p{
-        color: rgb(0, 0, 0);
         text-align: justify;
         font-family:Arial, Helvetica, sans-serif;
         text-justify:auto;
       }
+
+      TuNoMeteCabra{
+        
+      }
+
