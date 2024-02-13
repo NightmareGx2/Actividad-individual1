@@ -100,7 +100,13 @@ header {
         margin: 0 auto;
         max-width: 500px;
         height: auto;      }
-        
+      
+        footer p{
+          text-align: center;
+          background-color: #c23636;
+          color: #ffffff;
+          margin-left: 3%;
+        }
       
     
 
