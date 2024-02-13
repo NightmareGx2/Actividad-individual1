@@ -95,5 +95,12 @@ header {
         text-justify:auto;
       }
 
+      .TuNoMeteCabra div img {
+        display: block;
+        margin: 0 auto;
+        max-width: 500px;
+        height: auto;      }
+        
+      
     
 
